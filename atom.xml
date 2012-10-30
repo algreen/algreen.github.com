@@ -4,7 +4,7 @@
   <title><![CDATA[Al's Blog]]></title>
   <link href="http://algreen.github.com/atom.xml" rel="self"/>
   <link href="http://algreen.github.com/"/>
-  <updated>2012-10-30T13:19:47+00:00</updated>
+  <updated>2012-10-30T13:47:03+00:00</updated>
   <id>http://algreen.github.com/</id>
   <author>
     <name><![CDATA[Alan Green]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Windows 8 or iOS 6]]></title>
+    <link href="http://algreen.github.com/blog/2012/10/30/windows-8-or-ios-6/"/>
+    <updated>2012-10-30T13:44:00+00:00</updated>
+    <id>http://algreen.github.com/blog/2012/10/30/windows-8-or-ios-6</id>
+    <content type="html"><![CDATA[<H1> Which way to go&#8230;. </H1>
+
+
+<ul>
+<li>Now the question is which way to go&#8230;.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Al's First Blog Post]]></title>
