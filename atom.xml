@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Al's Blog]]></title>
+  <link href="http://algreen.github.com/atom.xml" rel="self"/>
+  <link href="http://algreen.github.com/"/>
+  <updated>2012-10-30T13:19:47+00:00</updated>
+  <id>http://algreen.github.com/</id>
+  <author>
+    <name><![CDATA[Alan Green]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Al's First Blog Post]]></title>
+    <link href="http://algreen.github.com/blog/2012/10/30/als-first-blog-post/"/>
+    <updated>2012-10-30T13:05:00+00:00</updated>
+    <id>http://algreen.github.com/blog/2012/10/30/als-first-blog-post</id>
+    <content type="html"><![CDATA[<p>Now is the time for all good men to whatever&#8230;.</p>
+]]></content>
+  </entry>
+  
+</feed>
