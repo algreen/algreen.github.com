@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Al's Blog]]></title>
+  <link href="http://algreen.github.com/atom.xml" rel="self"/>
+  <link href="http://algreen.github.com/"/>
+  <updated>2012-10-31T13:31:59+00:00</updated>
+  <id>http://algreen.github.com/</id>
+  <author>
+    <name><![CDATA[Alan Green]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The 12 goal thriller]]></title>
+    <link href="http://algreen.github.com/blog/2012/10/31/the-12-goal-thriller/"/>
+    <updated>2012-10-31T13:25:00+00:00</updated>
+    <id>http://algreen.github.com/blog/2012/10/31/the-12-goal-thriller</id>
+    <content type="html"><![CDATA[<p>Wow what a game</p>
+
+<p>How will Reading recover from this&#8230; Third from bottom in the Premier league, no league wins so far this season.  The Capital One cup came as a welcome distraction.  A game against a less than full strength Arsenal.</p>
+
+<p>Things were looking good, looking real good, 4-0 up after 35 minutes with the away fans signing &#8216;Bring our Arsenal Back&#8217;</p>
+
+<p>Roll forward 45 minutes (or 50 minutes with the additional injury time) and the scores are 5-5&#8230;</p>
+
+<p>30 minutes of extra time and we Reading have somehow lost a game they were totally in control of&#8230;</p>
+
+<p>This could be the catalyst of the downward spiral or the kick Reading need to aclimatise to life in the top flight of English football.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Al's First Blog Post]]></title>
+    <link href="http://algreen.github.com/blog/2012/10/30/als-first-blog-post/"/>
+    <updated>2012-10-30T13:05:00+00:00</updated>
+    <id>http://algreen.github.com/blog/2012/10/30/als-first-blog-post</id>
+    <content type="html"><![CDATA[<p>Now is the time for all good men to whatever&#8230;.</p>
+]]></content>
+  </entry>
+  
+</feed>
